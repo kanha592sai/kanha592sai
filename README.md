@@ -6,7 +6,12 @@ I make projects for fun and am interested in Web Development
 
 Skills:  JS / HTML / CSS / C / C++
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Community Website 
+- 🌱 I’m currently learning Web Development 
+- 👯 I’m looking to collaborate on UI UX Designs 
+- 🤔 I’m looking for help with Blockchain 
+- 💬 Ask me about HTML CSS JS  
+- ⚡ Fun fact: I am unfunny 
 
 
 

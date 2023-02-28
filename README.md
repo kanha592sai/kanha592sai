@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**kanha592sai/kanha592sai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, My Name is Sai Kanha Sethy
+#### I am Web Developer and UI UX Designer
+![I am Web Developer and UI UX Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I make projects just for fun and am interested in Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:  JS / HTML / CSS / C / C++
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
